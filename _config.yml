@@ -1,3 +1,4 @@
 title: Kids Timer
 url: "https://theangriestman.github.io"
-baseurl: "/kids_timer"
+baseurl: ""
+markdown: kramdown
