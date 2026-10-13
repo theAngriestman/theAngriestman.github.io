@@ -1,10 +1,6 @@
----
 layout: default
-title: Kids timer — Privacy Policy
-description: Privacy policy for Kids timer, an offline visual timer for children.
+title: Privacy Policy
 permalink: /privacy/
-canonical_url: https://theangriestman.github.io/kids_timer/privacy
----
 
 # Kids timer — Privacy Policy
 
